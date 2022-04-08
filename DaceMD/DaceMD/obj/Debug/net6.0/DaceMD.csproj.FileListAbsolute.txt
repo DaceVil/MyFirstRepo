@@ -1,0 +1,15 @@
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\bin\Debug\net6.0\DaceMD.exe
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\bin\Debug\net6.0\DaceMD.deps.json
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\bin\Debug\net6.0\DaceMD.runtimeconfig.json
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\bin\Debug\net6.0\DaceMD.dll
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\bin\Debug\net6.0\DaceMD.pdb
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\obj\Debug\net6.0\DaceMD.csproj.AssemblyReference.cache
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\obj\Debug\net6.0\DaceMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\obj\Debug\net6.0\DaceMD.AssemblyInfoInputs.cache
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\obj\Debug\net6.0\DaceMD.AssemblyInfo.cs
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\obj\Debug\net6.0\DaceMD.csproj.CoreCompileInputs.cache
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\obj\Debug\net6.0\DaceMD.dll
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\obj\Debug\net6.0\refint\DaceMD.dll
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\obj\Debug\net6.0\DaceMD.pdb
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\obj\Debug\net6.0\DaceMD.genruntimeconfig.cache
+C:\Users\Ilze\Desktop\DACE\repos\DaceMD\DaceMD\obj\Debug\net6.0\ref\DaceMD.dll
