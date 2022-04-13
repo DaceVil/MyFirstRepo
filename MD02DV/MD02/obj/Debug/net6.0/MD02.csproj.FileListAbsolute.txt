@@ -1,0 +1,15 @@
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\bin\Debug\net6.0\MD02.exe
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\bin\Debug\net6.0\MD02.deps.json
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\bin\Debug\net6.0\MD02.runtimeconfig.json
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\bin\Debug\net6.0\MD02.dll
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\bin\Debug\net6.0\MD02.pdb
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\obj\Debug\net6.0\MD02.csproj.AssemblyReference.cache
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\obj\Debug\net6.0\MD02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\obj\Debug\net6.0\MD02.AssemblyInfoInputs.cache
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\obj\Debug\net6.0\MD02.AssemblyInfo.cs
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\obj\Debug\net6.0\MD02.csproj.CoreCompileInputs.cache
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\obj\Debug\net6.0\MD02.dll
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\obj\Debug\net6.0\refint\MD02.dll
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\obj\Debug\net6.0\MD02.pdb
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\obj\Debug\net6.0\MD02.genruntimeconfig.cache
+C:\Users\Ilze\Desktop\DACE\repos\MD02DV\MD02\obj\Debug\net6.0\ref\MD02.dll
