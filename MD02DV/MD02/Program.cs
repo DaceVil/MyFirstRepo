@@ -31,6 +31,7 @@ Console.WriteLine(" =========================================");
 
 // 3.uzd
 
+Console.WriteLine("Lielākā skaitļa noteikšana");
 
 int number1, number2, number3;
 Console.WriteLine("Ievadi saitli");
@@ -57,6 +58,8 @@ Console.WriteLine(" ==========================================");
 
 
 // 4.uzd
+
+Console.WriteLine("Mazākā skaitļa noteikšana");
 
 int number4, number5, number6;
 Console.WriteLine("Ievadi jebkādu saitli");
@@ -85,14 +88,28 @@ Console.WriteLine(" =========================================");
 
 // 5.uzd
 
-int x = 8;
-int y = 3;
+Console.WriteLine("Dalījuma atlikums");
 
-// check 8 / 3 =2.67    2 * 3 = 6     8 - 6 = 2 
+int x;
+int y;
+
+Console.WriteLine("Jebkāds saitlis");
+
+string jSkaitlis = Console.ReadLine();
+x = int.Parse(jSkaitlis);
+
+Console.WriteLine("Jebkāds cits saitlis");
+string jCitsSkaitlis = Console.ReadLine();
+y = int.Parse(jCitsSkaitlis);
+
+
+// ex. check 8 / 3 =2.67    2 * 3 = 6     8 - 6 = 2 
+// 4/1 = 4 
 
 
 int divisionLeft = x % y;
 
+Console.WriteLine("Dalījuma atlikums ir :");
 Console.WriteLine(divisionLeft);
 
 
@@ -100,6 +117,7 @@ Console.WriteLine(" =========================================");
 
 
 // 6.uzd 
+Console.WriteLine("Pāra vai nepāra skaitļa noteikšana");
 
 int num1;
 Console.WriteLine("Ieraksti skaitli, lai pārbaudītu");
@@ -123,6 +141,8 @@ Console.WriteLine(" =========================================");
 
 // 7.uzd
 
+Console.WriteLine("Taisnstūra laukuma aprēķināšana");
+
 double platums;
 Console.WriteLine("Taisnstūra platums");
 string platumaSkaitlis = Console.ReadLine();
@@ -133,8 +153,6 @@ Console.WriteLine("Taisnstūra garums");
 string garumaSkaitlis = Console.ReadLine();
 garums = double.Parse(garumaSkaitlis);
 
-//double garums = 7.25;
-//double platums = 4.20;
 
 Console.WriteLine("Taisnstūra laukuma aprēķins");
 
@@ -157,9 +175,6 @@ string sānuMalasGarums = Console.ReadLine();
 malasGarums = double.Parse(sānuMalasGarums);
 
 int dalāmais = 2;
-
-//double garums = 7.25;
-//double platums = 4.20;
 
 Console.WriteLine("Trijstūra laukuma aprēķins");
 
